@@ -20,5 +20,8 @@
     "gulp": "^3.9.1",
     "gulp-deploy-ftp": "^1.0.1",
     "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "vinyl-ftp": "^0.6.1"
   }
 }
